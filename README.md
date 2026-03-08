@@ -62,8 +62,6 @@
 - 字节跳动图形图像算法实习面经 [nowcoder](https://www.nowcoder.com/discuss/178153)
 - 拼多多算法实习生面经 [nowcoder](https://www.nowcoder.com/discuss/177911)
 - 算法岗面经传送门 [nowcoder](https://www.nowcoder.com/discuss/180976)
-- 面经（腾讯AI Lab，阿里达摩院，华为等公司大集合） [nowcoder](https://www.nowcoder.com/discuss/180087)
-- cv岗面经 [nowcoder](https://www.nowcoder.com/discuss/159266)
 - 小菜鸡的算法实习面经 [nowcoder](https://www.nowcoder.com/discuss/181770)
 - 机器学习/算法校招面试考点汇总 [nowcoder](https://www.nowcoder.com/discuss/165930)
 - 计算机视觉暑期实习面经 [nowcoder](https://www.nowcoder.com/discuss/186000)
@@ -72,7 +70,6 @@
 - 面经 | 百度、美团、拼多多、寒武纪等互联网大厂面试经验 [nowcoder](https://www.nowcoder.com/discuss/241988)
 - 面经 | 旷视科技算法研究员面经 [nowcoder](https://www.nowcoder.com/discuss/167336)
 - 算法面经 | 微软/阿里/百度/字节跳动/华为/OPPO [nowcoder](https://www.nowcoder.com/discuss/181117)
-- 旷视19届春招-算法研究员-凉经 [nowcoder](https://www.nowcoder.com/discuss/167336)
 - 腾讯算法实习面试总结 [nowcoder](https://www.nowcoder.com/discuss/163996)
 - 春招详细算法面经(旷视/海康/联影等8家公司Offer) [nowcoder](https://www.nowcoder.com/discuss/163388)
 - 普通的算法/机器学习面经 [nowcoder](https://www.nowcoder.com/discuss/61907)
@@ -92,8 +89,6 @@
 - 百度/商汤AI面试 [CSDN](https://blog.csdn.net/emma1222/article/details/86551435)
 - 算法校招经验总结(百度,阿里巴巴,腾讯,今日头条) [CSDN](https://blog.csdn.net/ML_SDD/article/details/84986528)
 - CV计算机论文速览 [CSDN](https://me.csdn.net/u014636245)
-- 海外小硕的国内面试经历 [CSDN](https://blog.csdn.net/emma1222/article/details/86551435)
-- 致未来的算法工程师-算法校招经验总结（百度，阿里巴巴，腾讯，今日头条） [CSDN](https://blog.csdn.net/ML_SDD/article/details/84986528)
 - AI 研习社职荐专区 [AI求职百题斩](https://www.yanxishe.com/blogDetail/14457) [面经](https://www.yanxishe.com/blogDetail/14456) [website](https://job.yanxishe.com/)
 - 算法与数据结构、机器学习、深度学习 [Blog](https://www.liwei.party/)
 
@@ -161,7 +156,7 @@
 - The best resources in Machine Learning & AI [Github](https://github.com/RemoteML/bestofml) [Website](https://bestofml.com/)
 - A Machine Learning Course with Python [Github](https://github.com/machinelearningmindset/machine-learning-course)
 - Machine learning, in numpy [Github](https://github.com/ddbourgin/numpy-ml)
-- A complete computer science study plan to become a software engineer. [Github](https://github.com/ddbourgin/numpy-ml)
+- A complete computer science study plan to become a software engineer. [Github](https://github.com/jwasham/coding-interview-university)
 
 ---
 
@@ -320,15 +315,15 @@ https://github.com/dsgiitr/d2l-pytorch)
 - 在 Windows 上使用 Python 进行开发 [Blog](https://docs.microsoft.com/zh-cn/windows/python/)
 - A curated list of awesome Python frameworks, libraries, software and resources [Github](https://github.com/vinta/awesome-python)
 - c9-python-getting-started [Github](https://github.com/microsoft/c9-python-getting-started)
-- 编程超能力入门班 [Blog](www.enginego.org)
+- 编程超能力入门班 [Blog](https://www.enginego.org)
   
 ---
 
 
 ## Pytorch
 - pytorch [Github](https://github.com/pytorch/pytorch) [Website](https://pytorch.org/)
-- Offical pytorch examples [Github](https://github.com/pytorch/examples)
-- Offical pytorch tutorials [Github](https://github.com/pytorch/tutorials)
+- Official pytorch examples [Github](https://github.com/pytorch/examples)
+- Official pytorch tutorials [Github](https://github.com/pytorch/tutorials)
 - stanford-cs-230-deep-learning [Github](https://github.com/afshinea/stanford-cs-230-deep-learning)
 - practicalAI [Github](https://github.com/GokuMohandas/practicalAI)
 - PyTorch中文手册 [Github](https://github.com/zergtant/pytorch-handbook)
